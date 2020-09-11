@@ -1,0 +1,21 @@
+Blind coding may not be efficient. Let's consider the two repositories FacebookTrash and GameConcept as pseudo-code parts which may be fused down there to write down a guideline to 
+transform the prototype operator fuse words into a functional application :
+
+Step 1: Implement a method called SetSubItem which for example may generate an array of words, which condition trigger may depend on a system map defined by another array which access
+        condition may depend on the way accessing the map coordinates. We will make correspond the word access to the map coordinates access for a simple start.
+
+Step 2: Be more specific about your map coordinates : 
+        a)is it a group produced by a priest class ? then you have to define a range within which the word access is equal at any position.
+        b) is it a lander path blocker ? You may have to specify a dual state for each pointer coordinate memory allocation because the lander will never forget the wrath of his elder.
+        c) is it a warlord word taker ? Your map array may be defined as a linked list which effect would be greater than simply reordering all linked elements, you should free all
+           slots upon the fusion, independantly from the two first specifications.
+
+Step 3: Implement a method called GetSubItem which will give you the condition access to the words of your first array.
+
+Step 4: think about a way generating words at a certain rate, which would introduce a countdown to make you fuse a given word with a word you would have to type without specification.
+
+Note: Great Step done ! At the very beginning...you had to enter two words to fuse like that. From now on, you may have a better understanding of the library system and the use of
+      the dictionary, so you can play a first version prototype of imperials against feudals.
+
+Note 2: real steps may slighlty differ from that development guideline, but this one is a good start if you don't know what's the use of fuse words...
+  
