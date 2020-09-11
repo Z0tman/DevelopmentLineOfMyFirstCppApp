@@ -19,3 +19,14 @@ Note: Great Step done ! At the very beginning...you had to enter two words to fu
 
 Note 2: real steps may slighlty differ from that development guideline, but this one is a good start if you don't know what's the use of fuse words...
   
+Step 5: Establish condition build for feudal group as a half winning condition over the fusion process with time constraint.
+
+(Additionnal steps) : Set difficulties by ord length or by map difficulties or by leveling the power of the word generator...
+
+My prototype operator doesn't seem to be something special, because there are still a lot of work to make it to be useable as a fully functional application.
+
+The prototype is fine for me, but if people want to train to make game, here is a good exercise that people can do by readin my single cpp file I didn't split into a header file...
+
+I give you a clue for the Feudal group structure : you can play with the Uppercase and the Lowercase letters....
+
+Don't make it be complex, play simple, only then think about the graphic design...not necessarily "3D realistic".
