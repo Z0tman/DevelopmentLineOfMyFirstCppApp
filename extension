@@ -1,0 +1,25 @@
+Why I did not write the whole code as a game prototype ?
+
+If I didn't it is because the prototype operator is more than enough to try a template extension.
+
+If you do so, the best part of the challenge is at the beginning : which game concept will allow you to use a process fusion to fuse skills, objects, attacks FX, mix FX and so on ?
+
+The blending functionalities are impressive, but working only on strings may not be the best way doing so.
+
+That doesn't mean to try to complete the development guideline.
+
+Since I lack of experience in the field of coding, I won't state anything of the sort.
+
+So, if the guideline is too easy, the best part is how to implement a new template functionality which will allow you to extend the blending features into your game engine.
+
+I think about unreal engine, but that can be possible also for unity or any other game engine.
+
+I never tried to make a plugin, but that could be a good start to simply share the prototype version, because making work which will not necessarily be compatible with other workflows
+
+would be irrelevant.
+
+Here, the mistake is very small, it is just about the type variable handling.
+
+If the built-in method is not enough, you will have to write a custom method for a template extend type by yourself.
+
+Well, that won't make advance the program as fast as simply following the guidline, but that will make you think of it as a new way to blend things together.
