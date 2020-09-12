@@ -1,0 +1,31 @@
+As you can see in my prototype operator, I made a simple string test to evaluate the difficulty and the range of my coming application.
+But, if you aim for game development, the string type may not be adapted for your game project.
+
+it is not a real problem, you can extend it to a template with more experience, which will free you from the dialog part which presents a tough difficulty about the inversion process.
+
+Will that be harder or easier with different types variable ?
+
+What kind of converion you will have to establish for the blending ?
+
+Without chemistry knowloedge, that will be hard to establish in your first sheet on the first try.
+
+Then, how to do that ?
+
+I want to upgrade my prototype operator as a functional application.
+
+But, if you want it to work fine, you should add "plugs" to it, which means it will be able to deal with multiple game components parts for the blending, the core part of the friendly
+dead attacks statistic features to animate and to treat statitically.
+
+That makes a lot of data, some reorganization will be required.
+
+You may not be ready yet to do so.
+
+Then, why not thinking about a different way organizing it instead of a bare risky refactoring ?
+
+The template will indeed reduce the length of the source code, which will allow you to bring more complexity to your functionality.
+
+Howewer, if the type brings higher difficulties than it was with the string type, how will you handle it ?
+
+In the next part, I will try to publish a new pipeline which could be used to solve the probem from its concept first, then starting coding may be interesting to 
+
+get that new functionality which still doesn't exist.
